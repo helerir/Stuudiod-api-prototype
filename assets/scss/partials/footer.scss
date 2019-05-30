@@ -1,0 +1,26 @@
+// => Footer Components
+// ------------------------------------------------------------------------------
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding-bottom: 3%;
+    width: 100%;
+    z-index: 10;
+    margin: auto;
+    padding-bottom: 10px;
+    background: linear-gradient(to right, #bb47cd 0%,#6c48db 31%,#5452ff 71%,#5452ff 91%);
+    border-radius: 100px 100px 0 0;
+}
+
+.btn-home {
+    background: url("~assets/gfx/icon__home.svg") no-repeat 50%;
+    background-size: cover;
+    width: 60px;
+    height: 60px;
+    border-radius: 12px;
+    position: relative;
+    top: -30px;
+}

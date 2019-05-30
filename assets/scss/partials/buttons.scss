@@ -1,0 +1,20 @@
+// => Button Components
+// ------------------------------------------------------------------------------
+
+.btn {
+    font-weight: 700;
+}
+
+.btn-search {
+    background: url("~assets/gfx/icon__search.svg") no-repeat 100% 50%;
+    padding-right: 2.5rem;
+    font-size: 1.4rem;
+    font-weight: 800;
+    background-size: 30px;
+    transition: all .2s ease-in-out;
+
+    &:hover {
+        color: theme-color("primary");
+        background-size: 33px;
+    }
+}
