@@ -16,7 +16,7 @@
     "bootstrap-vue": "^2.0.0-rc.18",
     "cross-env": "^5.2.0",
     "jquery": "^3.4.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.13",
     "moment": "^2.24.0",
     "nuxt": "^2.4.0",
     "nuxt-purgecss": "^0.2.1",
